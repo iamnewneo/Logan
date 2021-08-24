@@ -1,4 +1,4 @@
-# LogEventAnalysis
+# Logan - Log Anomaly Detector
 
 ## Build Log Image
 
